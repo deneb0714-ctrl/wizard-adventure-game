@@ -1,5 +1,8 @@
 # 魔法使いの冒険
 
+<img width="599" height="497" alt="image" src="https://github.com/user-attachments/assets/5805f217-18a6-4f80-85d0-e93de934b018" />
+
+
 ## 概要
 Pythonとtkinterを用いて制作した2Dアクションゲームです。
 
