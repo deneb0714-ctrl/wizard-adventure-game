@@ -56,7 +56,7 @@ Pythonとtkinterを用いて制作した2Dアクションゲームです。
 ## 実行方法
 
 ```bash
-python main.py
+python block.py
 ```
 
 ---
@@ -64,7 +64,7 @@ python main.py
 ## ファイル構成
 
 ```text
-main.py
+block.py
 image/
  ├ bg.png
  ├ majo.png
